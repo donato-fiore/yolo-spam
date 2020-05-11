@@ -10,20 +10,20 @@ print("[3] Shrek Movie Script")
 print("[4] Africa Lyrics")
 script = input("Choose Spam Method: ")
 
-driverpath="/bin/chromedriver"
+driverpath="CHROMEDRIVER PATH"
 driver = webdriver.Chrome(driverpath)
 driver.get(link)
 filler = ("filler")
 
 
 if script == "1":
-    f = open('/home/pi/Desktop/scripts/beemovie.txt', 'r')
+    f = open('scripts/beemovie.txt', 'r')
 elif script == "2":
-    f = open('/home/pi/Desktop/scripts/nevergonna.txt', 'r')
+    f = open('scripts/nevergonna.txt', 'r')
 elif script == "3":
     print("No Shrek Script yet")
 elif script == "4":
-    f = open('/home/pi/Desktop/scripts/africa.txt', 'r')
+    f = open('scripts/africa.txt', 'r')
 #add shrek script
     
 elem = driver.find_element_by_xpath('//*[@id="text"]')
