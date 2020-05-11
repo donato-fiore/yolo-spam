@@ -34,4 +34,4 @@ In yolo.py change ```... driverpath="CHROMEDRIVER PATH"...``` to be your Chromed
 
 Kermit_the_flop – [@Reddit](https://reddit.com/u/Kermit_the_flop/)
 
-[https://github.com/yourname/github-link](https://github.com/donato-fiore/)
+[https://github.com/donato-fiore/](https://github.com/donato-fiore/)
