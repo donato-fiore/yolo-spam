@@ -16,7 +16,7 @@ git clone https://github.com/donato-fiore/yolo-spam
 
 ## Setup
 
-In yolo.py change ```sh driverpath="CHROMEDRIVER PATH" ``` to be your Chromedriver path
+In yolo.py change ```... driverpath="CHROMEDRIVER PATH"...``` to be your Chromedriver path
 
 
 ## Release History
