@@ -4,7 +4,9 @@
 
 
 I do not take any ownership of what is being spammed.
-![](header.png)
+## Requirments
+
+Selenium & Python 3
 
 ## Installation
 
