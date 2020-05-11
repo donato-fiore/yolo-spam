@@ -30,7 +30,7 @@ In yolo.py change ```... driverpath="CHROMEDRIVER PATH"...``` to be your Chromed
 * 0.0.1
     * Work in progress
 
-## Meta
+## Connections
 
 Kermit_the_flop – [@Reddit](https://reddit.com/u/Kermit_the_flop/)
 
