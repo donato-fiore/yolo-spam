@@ -1,42 +1,23 @@
 # Yolo Spam
 > Spam the popular Yolo Anonymous Messaging program with different scripts
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
 
+I do not take any ownership of what is being spammed.
 ![](header.png)
 
 ## Installation
 
-OS X & Linux:
+OS X, Linux & Windows:
 
 ```sh
-npm install my-crazy-module --save
+git clone https://github.com/donato-fiore/yolo-spam
 ```
 
-Windows:
+## Setup
 
-```sh
-edit autoexec.bat
-```
+In yolo.py change ```sh driverpath="CHROMEDRIVER PATH" ``` to be your Chromedriver path
 
-## Usage example
-
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
 
 ## Release History
 
