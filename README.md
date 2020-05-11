@@ -21,10 +21,8 @@ In yolo.py change ```... driverpath="CHROMEDRIVER PATH"...``` to be your Chromed
 
 ## Release History
 
-* 0.2.0
-    * ADD: Added Never Gonna Give You Up & Africa to ```Scripts``` folder
 * 0.1.1
-    * FIX: TypeError error
+    * ADD: Added Never Gonna Give You Up & Africa to ```Scripts``` folder
 * 0.1.0
     * The first proper release
 * 0.0.1
