@@ -43,13 +43,13 @@ for line in f:
         print("\033[1;34;40m" + "[+] Message sent: %s" % line + "\033[1;34;40m \n")
         time.sleep(2.5)
         driver.refresh()
-    except BaseException or WebDriverException:
+    except BaseException:
         print("\033[1;31;40m" + "[!] Message not sent: %s" % line + "\033[1;31;40m \n")
         message = "1"
         error = "error"
         break;
     
-if error == "0":
-    print("\033[0;37;46m" + type + " has finished with " + message + " " + error + "\033[0;37;46m \n")
+if message == "0":
+    print("\033[0;37;42m" + type + " has finished with " + message + " " + error + "\033[0;37;42m \n")
 else:
     print("\033[0;37;41m" + type + " has finished with " + message + " " + error + "\033[0;37;41m \n")
