@@ -11,7 +11,7 @@ print("[4] Africa Lyrics")
 print("[5] Rappin for Jesus")
 script = input("Choose Spam Method: ")
 
-driverpath="/bin/chromedriver"
+driverpath="PATH TO CHROMEDRIVER"
 driver = webdriver.Chrome(driverpath)
 driver.get(link)
 
